@@ -8,7 +8,7 @@ comand 'pip install liqpay-python' doesn't work for python 3
 
 -   create your own .env file similar to .env_template
 
-##How it use?
+## How it use?
 ```python
 from payment import Payment
 p = Payment()
