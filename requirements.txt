@@ -1,0 +1,4 @@
+python-dotenv~=0.19.2
+pytz~=2021.1
+liqpay-python @ git+https://github.com/liqpay/sdk-python
+requests~=2.26.0
